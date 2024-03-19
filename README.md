@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src='screenshot/Screenshot.png.jpeg' width=100/>
+<img src='screenshot/Screenshot.png' width=100/>
 
 <h1>Catfishing</h1>
 <p>Duping or Catfishing is the point at which somebody utilizes pictures and data (frequently taken from others social media accounts) to make another character on the social media - at times involving a singular's whole way of life as their own (Personation) Recently made social media accounts can then be utilized to harm the standing of the genuine proprietor of the personality, or on the other hand any imaginary characters that are made utilizing others pictures and data can be utilized to frame unscrupulous (dishonest relations) connections on the media. Despite the fact that duping or Catfishing used to be seen more among grown-ups utilizing web-based dating platforms, it has now turned into a more inescapable issue among grown-ups and youngsters. Some people who catfish take drastic actions to make counterfeit characters - having various social media accounts determined to develop and approving their duping or catfishing profiles.</p>
